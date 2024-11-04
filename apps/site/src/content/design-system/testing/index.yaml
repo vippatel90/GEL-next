@@ -1,0 +1,14 @@
+name: 'testing '
+description: q ergqregwrtgwrt hqrt rth
+namedExport:
+  discriminant: false
+excludeFromNavbar: false
+design:
+  - title:
+      name: For michael
+      slug: for-michael
+    noTitle: false
+    noDemo: false
+accessibility: []
+relatedComponents: []
+code: []
